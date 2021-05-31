@@ -3,6 +3,9 @@
 [![Build Status](https://travis-ci.org/rambler-digital-solutions/actix-cache.svg?branch=master)](https://travis-ci.org/rambler-digital-solutions/actix-cache)
 [![Coverage Status](https://coveralls.io/repos/github/rambler-digital-solutions/actix-cache/badge.svg?branch=master)](https://coveralls.io/github/rambler-digital-solutions/actix-cache?branch=master)
 
+**Actix-Cache framework development moved to the [Hitbox](https://github.com/hit-box/hitbox) repository.
+Actix-Cache is not supported now.**
+
 Actix cache is a proxy actor and infrastructure for asynchronous and clear cache interaction for Actix actor and Actix-web frameworks.
 
 ## Features
